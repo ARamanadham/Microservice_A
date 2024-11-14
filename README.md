@@ -23,7 +23,7 @@ Optional dictionary parameters:
 ## Recieving Data
 A name will be returned to the console or variable as a string. As such make use of  the socket.recv_string() method. The example below shows the generated names stored in a name variable, printed to the console using f"Generated name: {name}"
 
-![alt text](images/Random Names.png)
+![alt text](images/Random_Names.png)
 
 ## UML Sequence Diagram
 ![alt text](images/UML.png)
