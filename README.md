@@ -25,6 +25,9 @@ A name will be returned to the console or variable as a string. As such make use
 
 ![alt text](images/Random_Names.png)
 
+## Example Name Generation Code
+![alt text](images/Example_Request.png)
+
 ## UML Sequence Diagram
 ![alt text](images/UML.png)
 
