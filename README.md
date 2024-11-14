@@ -18,13 +18,13 @@ Optional dictionary parameters:
     "race": ["elf"/"dwarf"] for specific patterns pertaining to these races
     "add title": [True/False] for a random title to be added to the name
 }
-![alt text](Request Data.png)
+![alt text](images/Request Data.png)
 
 ## Recieving Data
 A name will be returned to the console or variable as a string. As such make use of  the socket.recv_string() method. The example below shows the generated names stored in a name variable, printed to the console using f"Generated name: {name}"
 
-![alt text](Random Names.png)
+![alt text](images/Random Names.png)
 
 ## UML Sequence Diagram
-![alt text](UML.png)
+![alt text](images/UML.png)
 
